@@ -13,7 +13,7 @@ public class Main {
     //static File mainDir = new File("C:\\Users\\nurto\\OneDrive\\Рабочий стол\\test");
     public static void main(String[] args) throws IOException {
 
-        //...
+        // get dir from user
         Scanner scan = new Scanner(System.in);
         String s = scan.nextLine();
 
@@ -48,6 +48,8 @@ public class Main {
 
                 //use recursion to sort child directories
                 Sorter(item.listFiles(), mainDir);
+
+                //delete empty folder
                 item.delete();
             }
             else if (item.isFile()) {

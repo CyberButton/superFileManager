@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e749263-d5e8-4ec8-8e7a-856856c4fc6b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5e749263-d5e8-4ec8-8e7a-856856c4fc6b" name="Changes" comment="now user maindir is received from user, rather than being pre-defined">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659762852979</updated>
     </task>
+    <task id="LOCAL-00001" summary="now user maindir is received from user, rather than being pre-defined">
+      <created>1659778863195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659778863195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="now user maindir is received from user, rather than being pre-defined" />
+    <option name="LAST_COMMIT_MESSAGE" value="now user maindir is received from user, rather than being pre-defined" />
   </component>
 </project>

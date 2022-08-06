@@ -10,7 +10,7 @@ import static java.nio.file.Files.move;
 
 public class Main {
     // main directory where sorting needs to be done
-    //static File mainDir = new File("C:\\Users\\nurto\\OneDrive\\Рабочий стол\\test");
+    //static File mainDir = new File("adress");
     public static void main(String[] args) throws IOException {
 
         // get dir from user
